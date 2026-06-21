@@ -1,4 +1,4 @@
-name: Live Review Screenshot Bot
+name: Live Review 
 
 on:
   workflow_dispatch:
